@@ -1,7 +1,7 @@
 /**
- * @author Mr Coxall
+ * @author William Provost
  * @version 1.0.0
- * @date 2025-01-01
+ * @date 2025-11-14
  * @fileoverview This program shows comparing strings with different cases.
  */
 
